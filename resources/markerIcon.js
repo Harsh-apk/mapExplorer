@@ -1,0 +1,1 @@
+export const markerIcon = require("../assets/marker.png")
